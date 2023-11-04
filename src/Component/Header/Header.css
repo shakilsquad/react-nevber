@@ -1,0 +1,11 @@
+nav a{
+    margin-right: 15px;
+}
+nav a.active{
+    background-color: aqua;
+    color: black;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    font-style: italic;
+    font-weight: 500;
+}
